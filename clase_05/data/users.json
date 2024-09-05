@@ -1,0 +1,27 @@
+[
+  {
+    "id": "c6631e2a-3db0-4875-a7f6-906fc81d3c7d",
+    "name": "Carlos",
+    "email": "carlos@mail.com"
+  },
+  {
+    "id": "5e84e5e5-c49c-47b3-a6e2-d728d8ec0b1e",
+    "name": "Juan",
+    "email": "juan@mail.com"
+  },
+  {
+    "id": "a45a8fa5-6b83-4c04-8a2b-5809fd637a4b",
+    "name": "Mariela",
+    "email": "mariela@mail.com"
+  },
+  {
+    "id": "94acfb49-cb0b-4748-9c8c-a2ebf03cc741",
+    "name": "Mariela",
+    "email": "mariela@mail.com"
+  },
+  {
+    "id": "e38443e6-17b0-4d81-bedf-783a92b170a6",
+    "name": "Jose",
+    "email": "jose@mail.com"
+  }
+]
