@@ -1,0 +1,42 @@
+[
+  {
+    "nombre": "Rocio",
+    "edad": 29,
+    "email": "rocio@mail.com"
+  },
+  {
+    "nombre": "Carlos",
+    "edad": 25,
+    "email": "carlos@mail.com"
+  },
+  {
+    "nombre": "Sebastian",
+    "edad": 30,
+    "email": "sebastian@mail.com"
+  },
+  {
+    "nombre": "Emanuel",
+    "edad": 21,
+    "email": "emanuel@mail.com"
+  },
+  {
+    "nombre": "Jose",
+    "edad": 21,
+    "email": "jose@gamil.com"
+  },
+  {
+    "nombre": "Jose",
+    "edad": 21,
+    "email": "jose@gamil.com"
+  },
+  {
+    "nombre": "Jose",
+    "edad": 21,
+    "email": "jose@gamil.com"
+  },
+  {
+    "nombre": "Jose",
+    "edad": 21,
+    "email": "jose@gamil.com"
+  }
+]
